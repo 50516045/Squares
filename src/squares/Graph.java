@@ -51,6 +51,7 @@ public class Graph extends Frame implements ActionListener, WindowListener {
 	@Override
 	public void windowClosing(WindowEvent e) {
 		// TODO Auto-generated method stub
+		System.exit(0);
 		
 	}
 
